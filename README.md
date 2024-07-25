@@ -1,1 +1,1 @@
-# OOPJ_Hospital-Mnagement
+# OOPJ_Hospital-Management
